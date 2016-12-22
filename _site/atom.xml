@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/chamcon/</id>
 	<title>Cham Con</title>
-	<updated>2016-12-21T15:12:40+00:00</updated>
+	<updated>2016-12-22T19:01:46+00:00</updated>
 
 	<subtitle>»Cham Con« tong hop kinh nghiem cham soc con theo phuong phap khoa hoc.</subtitle>
 
@@ -12,7 +12,7 @@
 		
 		<author>
 			
-				<name>batruong</name>
+				<name>batq</name>
 			
 			
 			
@@ -108,11 +108,9 @@
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -148,11 +146,9 @@
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -195,11 +191,9 @@ with his “Jekyll Now”.&lt;/p&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -246,11 +240,9 @@ type (.png) then Export. Done!
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -311,11 +303,9 @@ type (.png) then Export. Done!
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -780,11 +770,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -813,11 +801,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -880,11 +866,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -951,11 +935,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>batq</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			

@@ -13,7 +13,7 @@
   - title: "An dam"
     url: "/anuong/andam/"
   - title: "Typography"
-    url: "/design/typography/typography/"
+    url: "/anuong/suabot/"
   - title: "Page/Post"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
@@ -33,13 +33,15 @@
 
 
 - title: "Suc khoe"
-  url: "/design/"
+  url: "/suckhoe/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
+  - title: "Benh thuong gap"
+    url: "/suckhoe/grid/"
+  - title: "Phat trien tam ly"
+    url: "/suckhoe/tamly/"
+  - title: "Phuong phap so cuu khi tre gap su co"
+    url: "/suckhoe/socuu/"
 
 - title: "Choi & Hoc"
   url: "/design/"
@@ -85,10 +87,29 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
+#- title: "Search"
+#  url: "/search/"
+#  side: right
+- title: "Papapi"
+  url: "/Papapi/"
   side: right
+  dropdown:
+  - title: "tu-hoc-MBA"
+    url: "/tu-hoc-MBA/"
+  - title: "giai-tri"
+    url: "/giai-tri/"
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Mamami"
+  url: "/mamami/"
   side: right
+  dropdown:
+  - title: "banh"
+    url: "/banh/"
+  - title: "mon-viet"
+    url: "/mon-viet/"
+  - title: "mon-tay"
+    url: "/mon-tay/"
+
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right
