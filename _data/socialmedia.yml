@@ -1,27 +1,27 @@
-- name: GitHub
-  url: http://github.com/phlow
+- name: 
+  url: http://github.com/
   class: icon-github
-  title: Code und mehr...
+  title: Code
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+- name: Papapi YouTube
+  url: https://www.youtube.com/channel/UCnU7xGKe-3jMTn_6ndzYesw
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Youtube cua Papapi"
 
-- name: Twitter
-  url: http://twitter.com/phlow
+- name: Papapi Twitter
+  url: http://twitter.com/papapi2u
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "This is Papapi's Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
+- name: Papapi Mixcloud
+  url: http://www.mixcloud.com/papapi2u/
   class: icon-cloud
-  title: "Mixe, was sonst?"
+  title: "My mix radio"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
+- name: Papapi  Google+
+  url: https://plus.google.com/u/0/105534074338100183850
   class: icon-googleplus
-  title: "YouTube Google+"
+  title: "Papapi Google+"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
