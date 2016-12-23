@@ -21,7 +21,7 @@ widget3:
   title: "Tim thong tin tren Babibu"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/phlow">@papapi2u</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
