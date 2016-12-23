@@ -9,12 +9,12 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog"
-  url: 'http://diy2learn.github.io/chamcon/papapi/blog/'
+  url: 'http://diy2learn.github.io/chamcon/blog/'
   image: widget-1-302x182.jpg
   text: 'Nhu nhung ong bo ba me tre khac, nuoi con la mot trai nghiem moi me. <em>Blog</em> ghi lai nhung suy nghi va kinh nghiem thuc te cua Papapu.'
 widget2:
   title: "Tai sao Bababu?"
-  url: 'http://diy2learn.github.io/chamcon//info/'
+  url: 'http://diy2learn.github.io/chamcon/info/'
   text: '<em>Bababu</em> la tong hop kien thuc tu mot cap vo chong tre nguoi viet song va lam viec o nuoc ngoai. Nhu nhung ong bo ba me tre, vo chong Papapu phai tim hieu tu sach vo va kinh nghiem cua nguoi than de co gang cham soc Bababu. Hy vong, nhung ghi chep nay se giup ich cho cac gia dinh tuong lai.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://diy2learn.github.io/chamcon/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
