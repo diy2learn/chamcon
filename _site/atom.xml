@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/chamcon/</id>
 	<title>Cham Con</title>
-	<updated>2016-12-22T19:01:46+00:00</updated>
+	<updated>2016-12-24T14:57:48+01:00</updated>
 
 	<subtitle>»Cham Con« tong hop kinh nghiem cham soc con theo phuong phap khoa hoc.</subtitle>
 
@@ -29,7 +29,7 @@
 			<id>http://localhost:4000/chamcon/anuong/andam/</id>
 			<title>Thuc an dam cho tre</title>
 			<link href="http://localhost:4000/chamcon/anuong/andam/" rel="alternate" type="text/html" title="Thuc an dam cho tre" />
-			<updated>2016-12-21T00:00:00+00:00</updated>
+			<updated>2016-12-21T00:00:00+01:00</updated>
 
 			
 				
@@ -95,14 +95,14 @@
 				<category term="post format" />
 			
 
-			<published>2016-12-21T00:00:00+00:00</published>
+			<published>2016-12-21T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/chamcon/songs/renault/</id>
+			<id>http://localhost:4000/chamcon/video/papapi/renault/</id>
 			<title>Mistral gagnant</title>
-			<link href="http://localhost:4000/chamcon/songs/renault/" rel="alternate" type="text/html" title="Mistral gagnant" />
-			<updated>2016-12-12T00:00:00+00:00</updated>
+			<link href="http://localhost:4000/chamcon/video/papapi/renault/" rel="alternate" type="text/html" title="Mistral gagnant" />
+			<updated>2016-12-12T00:00:00+01:00</updated>
 
 			
 				
@@ -114,33 +114,35 @@
 					
 				</author>
 			
-			<summary>Day la mot trong nhung bai hat hay nhat cua Renault.</summary>
-			<content type="html" xml:base="http://localhost:4000/chamcon/songs/renault/">&lt;!--more--&gt;
+			<summary>Đây là một trong những bài hát hay nhất của Renault, và của nhạc Pháp.</summary>
+			<content type="html" xml:base="http://localhost:4000/chamcon/video/papapi/renault/">&lt;!--more--&gt;
 
 &lt;h2 id=&quot;about-the-video-by-renault&quot;&gt;About the video by Renault&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Renault la nhac si, ca si noi tieng cua Phap. Voi giong hat khan, dac biet va nhung bai hat voi giai dieu doc dao nhung cuon hut, Renault con noi tieng la mot ca si voi ca tinh manh. Bai Hat “Mistral gagnant” lay ten cua mot loai keo noi tieng o mien nam nuoc Phap, ke ve nhung mang ky uc voi con gai cua ong, Lolita.   &lt;cite&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Mistral_gagnant_(chanson)&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+  &lt;p&gt;Renault là một nhạc sĩ, ca sĩ nổi tiếng của Pháp. Nổi tiếng với một giọng hát khàn, đặc biệt và những bài hát với giai điệu độc đáo, Renault còn được biết đến là một người với cá tính mạnh mẽ. Bài hát “Mistral gagnant” được đặt tên theo một loại kẹo nổi tiếng ở miền nam nước Pháp. Những giai điệu nhẹ nhàng kể vể những kỉ niệm của Renault và con gái của ông, Lolita.   &lt;cite&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Mistral_gagnant_(chanson)&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=Tuoh3o0CM3Y&quot;&gt;Renault – Mistral gagnant – »Mistral gagnant«&lt;/a&gt;&lt;/p&gt;
 </content>
 
 			
-				<category term="songs" />
+				<category term="video" />
+			
+				<category term="papapi" />
 			
 			
 				<category term="Renault" />
 			
 
-			<published>2016-12-12T00:00:00+00:00</published>
+			<published>2016-12-12T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/chamcon/thoughts/technics/my-path-to-Jekyll/</id>
 			<title>My path to Jekyll</title>
 			<link href="http://localhost:4000/chamcon/thoughts/technics/my-path-to-Jekyll/" rel="alternate" type="text/html" title="My path to Jekyll" />
-			<updated>2016-12-11T00:00:00+00:00</updated>
+			<updated>2016-12-11T00:00:00+01:00</updated>
 
 			
 				
@@ -178,14 +180,14 @@ with his “Jekyll Now”.&lt;/p&gt;
 				<category term="jekyll, learn" />
 			
 
-			<published>2016-12-11T00:00:00+00:00</published>
+			<published>2016-12-11T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/chamcon/thoughts/technics/Make-text-logo-in-Inkscape/</id>
 			<title>Text logo with Inkscape</title>
 			<link href="http://localhost:4000/chamcon/thoughts/technics/Make-text-logo-in-Inkscape/" rel="alternate" type="text/html" title="Text logo with Inkscape" />
-			<updated>2016-12-11T00:00:00+00:00</updated>
+			<updated>2016-12-11T00:00:00+01:00</updated>
 
 			
 				
@@ -227,14 +229,14 @@ type (.png) then Export. Done!
 				<category term="inkscape" />
 			
 
-			<published>2016-12-11T00:00:00+00:00</published>
+			<published>2016-12-11T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/chamcon/design/mediaelement_js/</id>
 			<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
 			<link href="http://localhost:4000/chamcon/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
-			<updated>2015-10-15T00:00:00+01:00</updated>
+			<updated>2015-10-15T00:00:00+02:00</updated>
 
 			
 				
@@ -290,14 +292,14 @@ type (.png) then Export. Done!
 				<category term="streaming music" />
 			
 
-			<published>2015-10-15T00:00:00+01:00</published>
+			<published>2015-10-15T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/chamcon/design/typography/typography/</id>
 			<title>Wonderful Typography</title>
 			<link href="http://localhost:4000/chamcon/design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
-			<updated>2015-08-16T00:00:00+01:00</updated>
+			<updated>2015-08-16T00:00:00+02:00</updated>
 
 			
 				
@@ -757,14 +759,14 @@ element&lt;/td&gt;
 			
 			
 
-			<published>2015-08-16T00:00:00+01:00</published>
+			<published>2015-08-16T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/chamcon/design/comments/</id>
 			<title>Now with Comments!</title>
 			<link href="http://localhost:4000/chamcon/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
-			<updated>2015-08-15T00:00:00+01:00</updated>
+			<updated>2015-08-15T00:00:00+02:00</updated>
 
 			
 				
@@ -788,14 +790,14 @@ element&lt;/td&gt;
 			
 			
 
-			<published>2015-08-15T00:00:00+01:00</published>
+			<published>2015-08-15T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/chamcon/design/no-header/</id>
 			<title>No Header</title>
 			<link href="http://localhost:4000/chamcon/design/no-header/" rel="alternate" type="text/html" title="No Header" />
-			<updated>2015-08-11T00:00:00+01:00</updated>
+			<updated>2015-08-11T00:00:00+02:00</updated>
 
 			
 				
@@ -853,14 +855,14 @@ element&lt;/td&gt;
 				<category term="header" />
 			
 
-			<published>2015-08-11T00:00:00+01:00</published>
+			<published>2015-08-11T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/chamcon/design/no-header-but-image/</id>
 			<title>No Header but Article Image</title>
 			<link href="http://localhost:4000/chamcon/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" />
-			<updated>2015-03-12T00:00:00+00:00</updated>
+			<updated>2015-03-12T00:00:00+01:00</updated>
 
 			
 				
@@ -922,14 +924,14 @@ image:
 				<category term="header" />
 			
 
-			<published>2015-03-12T00:00:00+00:00</published>
+			<published>2015-03-12T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/chamcon/design/header-with-text/</id>
 			<title>Header With Text</title>
 			<link href="http://localhost:4000/chamcon/design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" />
-			<updated>2015-02-10T00:00:00+00:00</updated>
+			<updated>2015-02-10T00:00:00+01:00</updated>
 
 			
 				
@@ -992,7 +994,7 @@ image:
 				<category term="header" />
 			
 
-			<published>2015-02-10T00:00:00+00:00</published>
+			<published>2015-02-10T00:00:00+01:00</published>
 		</entry>
 	
 </feed>

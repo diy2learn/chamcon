@@ -8,17 +8,38 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog"
+  title: "Trang web này?"
   url: 'http://diy2learn.github.io/chamcon/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Nhu nhung ong bo ba me tre khac, nuoi con la mot trai nghiem moi me. <em>Blog</em> ghi lai nhung suy nghi va kinh nghiem thuc te cua Papapu.'
+  image: widget1_papapi_babyOnRose_302x181.jpg
+  text: '<em>Papapi</em> là tổng hợp những ghi chép và kinh nghiệm chăm con của một cặp vợ chồng trẻ người việt đang sống và làm việc ở nước ngoài. Papapi và Mamami hy vọng những ghi chép này sẽ giúp ích cho cac gia đình tương lai.'
 widget2:
-  title: "Tai sao Bababu?"
-  url: 'http://diy2learn.github.io/chamcon/info/'
-  text: '<em>Bababu</em> la tong hop kien thuc tu mot cap vo chong tre nguoi viet song va lam viec o nuoc ngoai. Nhu nhung ong bo ba me tre, vo chong Papapu phai tim hieu tu sach vo va kinh nghiem cua nguoi than de co gang cham soc Bababu. Hy vong, nhung ghi chep nay se giup ich cho cac gia dinh tuong lai.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://diy2learn.github.io/chamcon/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Papapi"
+  url: 'http://diy2learn.github.io/chamcon/papapi/'
+  image: widget2_papapi_getRich_302x182.jpg
+  text: '<em>Papapi</em> là nơi Papapi ghi chép lại những kiến thức và kinh nghiệm hữu ích cho bản thân trên con đường tìm kiếm một cuộc sống tốt hơn.'
+
 widget3:
-  title: "Tim thong tin tren Babibu"
+  title: "Mamami"
+  url: 'http://diy2learn.github.io/chamcon/mamami/'
+  image: widget3_mamami_birthday-cake_302x182.jpg
+  text: '<em> Mamami</em> là nơi mẹ Mamami chia sẻ những công thức làm bánh Pháp và những món ăn Việt–đã được điều chỉnh để thích ứng với nguyên vật liệu ở nơi xa xứ.'
+
+widget4:
+  title: "Thu nghiem widget4"
+  url: 'https://github.com'
+  image: widget-github-303x182.jpg
+  text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/papapi2u">@papapi2u</a>.'
+
+
+widget5:
+  title: "Thu nghiem widget5"
+  url: 'https://github.com'
+  image: widget-github-303x182.jpg
+  text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/papapi2u">@papapi2u</a>.'
+
+
+widget6:
+  title: "Thu nghiem widget6"
   url: 'https://github.com'
   image: widget-github-303x182.jpg
   text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/papapi2u">@papapi2u</a>.'

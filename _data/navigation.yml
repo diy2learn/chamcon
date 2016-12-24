@@ -91,7 +91,7 @@
 #  url: "/search/"
 #  side: right
 - title: "Papapi"
-  url: "/Papapi/"
+  url: "/papapi/"
   side: right
   dropdown:
   - title: "tu-hoc-MBA"

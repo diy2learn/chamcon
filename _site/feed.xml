@@ -11,7 +11,7 @@
 			<item>
 				<title>Thuc an dam cho tre</title>
 				<link>http://localhost:4000/chamcon/anuong/andam/</link>
-				<pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 21 Dec 2016 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
 
@@ -56,25 +56,25 @@
 		
 			<item>
 				<title>Mistral gagnant</title>
-				<link>http://localhost:4000/chamcon/songs/renault/</link>
-				<pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/chamcon/video/papapi/renault/</link>
+				<pubDate>Mon, 12 Dec 2016 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
 &lt;h2 id=&quot;about-the-video-by-renault&quot;&gt;About the video by Renault&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Renault la nhac si, ca si noi tieng cua Phap. Voi giong hat khan, dac biet va nhung bai hat voi giai dieu doc dao nhung cuon hut, Renault con noi tieng la mot ca si voi ca tinh manh. Bai Hat “Mistral gagnant” lay ten cua mot loai keo noi tieng o mien nam nuoc Phap, ke ve nhung mang ky uc voi con gai cua ong, Lolita.   &lt;cite&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Mistral_gagnant_(chanson)&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+  &lt;p&gt;Renault là một nhạc sĩ, ca sĩ nổi tiếng của Pháp. Nổi tiếng với một giọng hát khàn, đặc biệt và những bài hát với giai điệu độc đáo, Renault còn được biết đến là một người với cá tính mạnh mẽ. Bài hát “Mistral gagnant” được đặt tên theo một loại kẹo nổi tiếng ở miền nam nước Pháp. Những giai điệu nhẹ nhàng kể vể những kỉ niệm của Renault và con gái của ông, Lolita.   &lt;cite&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Mistral_gagnant_(chanson)&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=Tuoh3o0CM3Y&quot;&gt;Renault – Mistral gagnant – »Mistral gagnant«&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/chamcon/songs/renault/</guid>
+				<guid isPermaLink="true">http://localhost:4000/chamcon/video/papapi/renault/</guid>
 			</item>
 		
 			<item>
 				<title>My path to Jekyll</title>
 				<link>http://localhost:4000/chamcon/thoughts/technics/my-path-to-Jekyll/</link>
-				<pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+				<pubDate>Sun, 11 Dec 2016 00:00:00 +0100</pubDate>
 				<description>&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;I could grasp basic ideas of how a website in general and particularly Jekyll based-website work by using the following tutorial:
@@ -96,7 +96,7 @@ with his “Jekyll Now”.&lt;/p&gt;
 			<item>
 				<title>Text logo with Inkscape</title>
 				<link>http://localhost:4000/chamcon/thoughts/technics/Make-text-logo-in-Inkscape/</link>
-				<pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+				<pubDate>Sun, 11 Dec 2016 00:00:00 +0100</pubDate>
 				<description>&lt;ol&gt;
   &lt;li&gt;Make a rectangle with desired size (no line/ no fill)&lt;/li&gt;
   &lt;li&gt;Add shadow layer, add desired text, chose size and bold style. Chose color is black (70%). This will be the shadow&lt;/li&gt;
@@ -122,7 +122,7 @@ type (.png) then Export. Done!
 			<item>
 				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
 				<link>http://localhost:4000/chamcon/design/mediaelement_js/</link>
-				<pubDate>Thu, 15 Oct 2015 00:00:00 +0100</pubDate>
+				<pubDate>Thu, 15 Oct 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
@@ -160,7 +160,7 @@ type (.png) then Export. Done!
 			<item>
 				<title>Wonderful Typography</title>
 				<link>http://localhost:4000/chamcon/design/typography/typography/</link>
-				<pubDate>Sun, 16 Aug 2015 00:00:00 +0100</pubDate>
+				<pubDate>Sun, 16 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
@@ -606,7 +606,7 @@ element&lt;/td&gt;
 			<item>
 				<title>Now with Comments!</title>
 				<link>http://localhost:4000/chamcon/design/comments/</link>
-				<pubDate>Sat, 15 Aug 2015 00:00:00 +0100</pubDate>
+				<pubDate>Sat, 15 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
@@ -618,7 +618,7 @@ element&lt;/td&gt;
 			<item>
 				<title>No Header</title>
 				<link>http://localhost:4000/chamcon/design/no-header/</link>
-				<pubDate>Tue, 11 Aug 2015 00:00:00 +0100</pubDate>
+				<pubDate>Tue, 11 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
 &lt;!--more--&gt;&lt;/p&gt;
 
@@ -658,7 +658,7 @@ element&lt;/td&gt;
 			<item>
 				<title>No Header but Article Image</title>
 				<link>http://localhost:4000/chamcon/design/no-header-but-image/</link>
-				<pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+				<pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;First turn of the header with &lt;code class=&quot;highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
 &lt;!--more--&gt;&lt;/p&gt;
 
@@ -702,7 +702,7 @@ image:
 			<item>
 				<title>Header With Text</title>
 				<link>http://localhost:4000/chamcon/design/header-with-text/</link>
-				<pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 10 Feb 2015 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
