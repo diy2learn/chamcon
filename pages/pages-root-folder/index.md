@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Papapi"
   url: 'http://diy2learn.github.io/chamcon/papapi/'
-  image: path-to-success.jpg
+  image: /widget2_pathToSuccess.png
   text: '<em>Papapi</em> là nơi Papapi ghi chép lại những kiến thức và kinh nghiệm hữu ích cho bản thân trên con đường tìm kiếm một cuộc sống tốt hơn.'
 
 widget3:
