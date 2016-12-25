@@ -244,7 +244,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/anuong/">An uong</a>
+                <a  href="http://localhost:4000/chamcon/anuong/">Ăn uống</a>
 
                   <ul class="dropdown">
                     
@@ -315,7 +315,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/suckhoe/">Suc khoe</a>
+                <a  href="http://localhost:4000/chamcon/suckhoe/">Sức khoẻ</a>
 
                   <ul class="dropdown">
                     
@@ -351,7 +351,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/design/">Choi &amp; Hoc</a>
+                <a  href="http://localhost:4000/chamcon/design/">Chơi &amp; học</a>
 
                   <ul class="dropdown">
                     
@@ -382,7 +382,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/documentation/">Phat trien</a>
+                <a  href="http://localhost:4000/chamcon/documentation/">Phát triển</a>
 
                   <ul class="dropdown">
                     

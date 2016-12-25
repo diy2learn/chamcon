@@ -6,7 +6,7 @@
 #  url: "/getting-started/"
 #  side: left
 
-- title: "An uong"
+- title: "Ăn uống"
   url: "/anuong/"
   side: left
   dropdown:
@@ -32,7 +32,7 @@
     url: "/design/portfolio/"
 
 
-- title: "Suc khoe"
+- title: "Sức khoẻ"
   url: "/suckhoe/"
   side: left
   dropdown:
@@ -43,7 +43,7 @@
   - title: "Phuong phap so cuu khi tre gap su co"
     url: "/suckhoe/socuu/"
 
-- title: "Choi & Hoc"
+- title: "Chơi & học"
   url: "/design/"
   side: left
   dropdown:
@@ -71,7 +71,7 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
 
-- title: Phat trien
+- title: Phát triển
   url: "/documentation/"
   side: left
   dropdown:
