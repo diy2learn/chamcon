@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/chamcon/</id>
 	<title>Cham Con</title>
-	<updated>2016-12-25T22:58:30+01:00</updated>
+	<updated>2016-12-25T23:30:13+01:00</updated>
 
 	<subtitle>»Cham Con« tong hop kinh nghiem cham soc con theo phuong phap khoa hoc.</subtitle>
 
@@ -155,38 +155,40 @@
 				</author>
 			
 			<summary>Những kinh nghiệm mua xe second hand ở Pháp của Papapi</summary>
-			<content type="html" xml:base="http://localhost:4000/chamcon/papapi/cuocsong/which-car-to-buy/">&lt;p&gt;I) Chênh lệch giá của Diesel và Xăng:
-Chuẩn bị để mua chiếc xe đầu tay, xe second hand, một trong những câu được đặt ra là chọn xe dầu Diesel hay xe Xăng. Hãy xem giá nhiên liệu cho xe tại thời điểm hiện tại&lt;a href=&quot;https://www.zagaz.com/evolution-prix.php&quot;&gt;1&lt;/a&gt;:&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/chamcon/papapi/cuocsong/which-car-to-buy/">&lt;p&gt;Chuẩn bị để mua chiếc xe đầu tay, xe second hand, một trong những câu được đặt ra là chọn xe dầu Diesel hay xe Xăng. Dưới đây là một vài điểm cần lưu ý.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I) Chênh lệch giá của Diesel và Xăng: &lt;/strong&gt;
+Hãy xem giá nhiên liệu cho xe tại thời điểm hiện tại &lt;a href=&quot;https://www.zagaz.com/evolution-prix.php&quot;&gt;1&lt;/a&gt;:&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;SP98	SP95	E10     Gas+	Gas  E85   GPL
 1.462€ 1.455€ 1.376€ 1.352€ 1.254€ 0.625€ 0.720€
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Hoá ra có nhiều loại nhiên liệu hơn là tôi tưởng. 
-Gas vs Gas+: Gas la diesel thông dụng, còn Gas+ là diesel Premium. Ý kiến về Gas+ và Gas khá trái chiều. Đa phần các chủ xe sử dụng Gas (củng dễ hiểu vì đó là classic). Một số người cho rằng Gas+ tốt hơn cho động cơ, và tiết kiệm nhiên liệu hơn; trong khi một số người khác lại cho rằng không thấy sự khác biệt về vận hành của Gas/Gas+, nhưng động cơ tiêu thụ nhiều Gas+ hơn (/100 km)
-SP95 vs SP95/E10(hay E10): SP95/E10 là xăng không chì, nhưng chứa 10% bioethanol (so với mức 5% trong SP95). xăng SP95/E10 rẽ hơn xăng SP95 do tốt hơn cho môi trường (thuế ô nhiễm thấp hơn), tuy nhiên xe sản xuất trước 2009 không nên dùng loại xăng này vì nó cần bugi lạnh (bougie froide) trong khi những dòng xe trước 2009 thường sử dụng bugi nóng &lt;a href=&quot;https://www.zagaz.com/aide.php&quot;&gt;2&lt;/a&gt;.
-E85: là loại xăng pha nhiên liệu bio. Giá thành loại nhiên liệu này rẻ đáng kể so với xăng/diesel thông dụng, nhưng động cơ tiêu thụ nhiều lit nhiên liệu hơn (/100km) và cần kim bơm xăng đặc biệt. Đồng thời loại nhiên liệu này có tính ăn mòn (động cơ) so với các loại xăng thộng dụng &lt;a href=&quot;https://www.zagaz.com/aide.php&quot;&gt;2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hoá ra có nhiều loại nhiên liệu hơn là tôi tưởng.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gas vs Gas+:&lt;/em&gt; Gas la diesel thông dụng, còn Gas+ là diesel Premium. Ý kiến về Gas+ và Gas khá trái chiều. Đa phần các chủ xe sử dụng Gas (củng dễ hiểu vì đó là classic). Một số người cho rằng Gas+ tốt hơn cho động cơ, và tiết kiệm nhiên liệu hơn; trong khi một số người khác lại cho rằng không thấy sự khác biệt về vận hành của Gas/Gas+, nhưng động cơ tiêu thụ nhiều Gas+ hơn (/100 km).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SP95 vs SP95/E10(hay E10):&lt;/em&gt; SP95/E10 là xăng không chì, nhưng chứa 10% bioethanol (so với mức 5% trong SP95). xăng SP95/E10 rẽ hơn xăng SP95 do tốt hơn cho môi trường (thuế ô nhiễm thấp hơn), tuy nhiên xe sản xuất trước 2009 không nên dùng loại xăng này vì nó cần bugi lạnh (bougie froide) trong khi những dòng xe trước 2009 thường sử dụng bugi nóng  [2].&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;E85:&lt;/em&gt; là loại xăng pha nhiên liệu bio. Giá thành loại nhiên liệu này rẻ đáng kể so với xăng/diesel thông dụng, nhưng động cơ tiêu thụ nhiều lit nhiên liệu hơn (/100km) và cần kim bơm xăng đặc biệt. Đồng thời loại nhiên liệu này có tính ăn mòn (động cơ) so với các loại xăng thộng dụng  [2].&lt;/p&gt;
 
 &lt;p&gt;Như vậy nếu bạn sử dụng Diesel/SP95, sự khác biệt về giá là 0.2 €/l. Trung bình, nếu mỗi tháng bạn chạy 600 km, và mức tiêu thụ của xe (chạy trong thành phố) 8l/100km, thì bạn có thể tiết kiệm 10€/tháng hay 120€/năm nếu sử dụng Diesel.&lt;/p&gt;
 
-&lt;p&gt;II) Thuế chống ô nhiễm môi trường
-Nếu xe vượt quá 200 g C02/km thì phải đống thuế ô nhiễm (surtaxe CO2). 2€/g CO2 cho khoảng 200-250 g CO2/km. 4€/g CO2 cho xe thải &amp;gt; 250g CO2/km &lt;a href=&quot;http://www.carte-grise.org/taxes_CO2.htm&quot;&gt;3&lt;/a&gt;.
-Đối với xe mới, vì xe Diesel thải ít hơn khoảng 20% lượng CO2 so với xe xăng, thường xe Diesel có thể tránh được Ecotaxe &lt;a href=&quot;https://www.lelynx.fr/assurance-auto/conducteur/environnement/essence-diesel/&quot;&gt;5&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;II) Thuế chống ô nhiễm môi trường &lt;/strong&gt;
+Nếu xe vượt quá 200 g C02/km thì phải đống thuế ô nhiễm (surtaxe CO2). 2€/g CO2 cho khoảng 200-250 g CO2/km. 4€/g CO2 cho xe thải &amp;gt; 250g CO2/km  &lt;a href=&quot;http://www.carte-grise.org/taxes_CO2.htm&quot;&gt;3&lt;/a&gt;.
+Đối với xe mới, vì xe Diesel thải ít hơn khoảng 20% lượng CO2 so với xe xăng, thường xe Diesel có thể tránh được Ecotaxe  &lt;a href=&quot;https://www.lelynx.fr/assurance-auto/conducteur/environnement/essence-diesel/&quot;&gt;5&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;III) Phí làm thẻ xe (Carte grise)
+&lt;p&gt;&lt;strong&gt;III) Phí làm thẻ xe (Carte grise) &lt;/strong&gt;
 Tuỳ theo mức thuế cho độ mạnh của động cơ (CV-chevaux fiscaux), và mức phí cho mỗi CV mà bạn có thể tính ra phí làm thẻ xe. Chú ý là đối với xe &amp;gt; 10 năm tuổi, mức phí được giảm 50%. Ví dụ, ở vùng Paris, với một xe 5CV, &amp;gt; 10 năm tuổi, bạn cần đóng 151.66€ trong khi nếu xe &amp;lt; 10 năm tuổi, bạn cần đóng 267.6€. (Không có sự khác biệt giữa xe diesel và xe xăng)&lt;/p&gt;
 
-&lt;p&gt;IV) Bảo hành xe:
+&lt;p&gt;&lt;strong&gt;IV) Bảo trì xe: &lt;/strong&gt;
 Chi phí bảo trì xe Diesel thường cao, và thường xuyên hơn (6 tháng) so với xe xăng (bảo trì mỗi năm).&lt;/p&gt;
 
-&lt;p&gt;V) Bảo hiểm xe:
-Bảo hiểm cho xe Diesel thường cao hơn 10-15% so với xe xăng. Có nhiều lý do cho điều này &lt;a href=&quot;https://www.lelynx.fr/assurance-auto/conducteur/environnement/essence-diesel/&quot;&gt;5&lt;/a&gt;:
+&lt;p&gt;&lt;strong&gt;V) Bảo hiểm xe: &lt;/strong&gt;
+Bảo hiểm cho xe Diesel thường cao hơn 10-15% so với xe xăng. Có nhiều lý do cho điều này  &lt;a href=&quot;https://www.lelynx.fr/assurance-auto/conducteur/environnement/essence-diesel/&quot;&gt;5&lt;/a&gt;:
 Trong trường hợp hỏng hóc, phụ tùng xe Diesel thường đắt hơn xe xăng
 Xe Diesel dễ bán lại hơn nên cũng dễ bị ăn cắp hơn.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;other-xe-post&quot;&gt;Other “Xe” post&lt;/h2&gt;
+&lt;h2 class=&quot;t60&quot; id=&quot;những-post-về-kinh-nghiệm-cuộc-sống&quot;&gt;Những Post về kinh nghiệm cuộc sống&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
