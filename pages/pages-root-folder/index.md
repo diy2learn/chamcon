@@ -10,12 +10,13 @@ header:
 widget1:
   title: "Trang web này?"
   url: 'http://diy2learn.github.io/chamcon/blog/'
-  image: widget1_papapi_babyOnRose_302x181.jpg
+  image: test1.jpg
   text: '<em>Papapi</em> là tổng hợp những ghi chép và kinh nghiệm chăm con của một cặp vợ chồng trẻ người việt đang sống và làm việc ở nước ngoài. Papapi và Mamami hy vọng những ghi chép này sẽ giúp ích cho cac gia đình tương lai.'
+
 widget2:
   title: "Papapi"
   url: 'http://diy2learn.github.io/chamcon/papapi/'
-  image: widget2_papapi_getRich_302x182.jpg
+  image: test2.jpg
   text: '<em>Papapi</em> là nơi Papapi ghi chép lại những kiến thức và kinh nghiệm hữu ích cho bản thân trên con đường tìm kiếm một cuộc sống tốt hơn.'
 
 widget3:
@@ -27,7 +28,7 @@ widget3:
 widget4:
   title: "Thu nghiem widget4"
   url: 'https://github.com'
-  image: widget-github-303x182.jpg
+  image: widget2_pathTosucess_302x182.png
   text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/papapi2u">@papapi2u</a>.'
 
 
