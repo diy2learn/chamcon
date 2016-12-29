@@ -8,42 +8,26 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Trang web này?"
+  title: "Bababi"
   url: 'http://diy2learn.github.io/chamcon/blog/'
   image: widget1_papapi_babyOnRose_302x181.jpg
-  text: '<em>Papapi</em> là tổng hợp những ghi chép và kinh nghiệm chăm con của một cặp vợ chồng trẻ người việt đang sống và làm việc ở nước ngoài. Papapi và Mamami hy vọng những ghi chép này sẽ giúp ích cho cac gia đình tương lai.'
+  text: '<em>Bababi</em> là tổng hợp những ghi chép và kinh nghiệm chăm con của một cặp vợ chồng trẻ người việt đang sống và làm việc ở nước ngoài. Papapi và Mamami hy vọng những ghi chép này sẽ giúp ích cho cac gia đình tương lai.'
 
 widget2:
-  title: "Papapi"
-  url: 'http://diy2learn.github.io/chamcon/papapi/'
-  image: widget2_pathToSuccess.jpg
-  text: '<em>Papapi</em> là nơi Papapi ghi chép lại những kiến thức và kinh nghiệm hữu ích cho bản thân trên con đường tìm kiếm một cuộc sống tốt hơn.'
-
-widget3:
   title: "Mamami"
   url: 'http://diy2learn.github.io/chamcon/mamami/'
   image: widget3_mamami_birthday-cake_302x182.jpg
   text: '<em> Mamami</em> là nơi mẹ Mamami chia sẻ những công thức làm bánh Pháp và những món ăn Việt–đã được điều chỉnh để thích ứng với nguyên vật liệu ở nơi xa xứ.'
 
-widget4:
-  title: "Thu nghiem widget4"
-  url: 'https://github.com'
-  image: widget2_pathTosucess_302x182.png
-  text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/papapi2u">@papapi2u</a>.'
+widget3:
+  title: "Papapi"
+  url: 'http://diy2learn.github.io/chamcon/papapi/'
+  image: widget2_pathToSuccess.jpg
+  text: '<em>Papapi</em> là nơi Papapi ghi chép lại những kiến thức và kinh nghiệm hữu ích cho bản thân trên con đường tìm kiếm một cuộc sống tốt hơn.'
 
 
-widget5:
-  title: "Thu nghiem widget5"
-  url: 'https://github.com'
-  image: widget-github-303x182.jpg
-  text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/papapi2u">@papapi2u</a>.'
 
 
-widget6:
-  title: "Thu nghiem widget6"
-  url: 'https://github.com'
-  image: widget-github-303x182.jpg
-  text: 'Thong tin duoc chia ra cac muc o tren dau trang. Cac ban click vao cac muc cu the de doc. De quay lai trang chu, chon <em>Start</em>. Neu co gop y xin lien lac qua <a href="http://twitter.com/papapi2u">@papapi2u</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #

@@ -6,51 +6,21 @@
 #  url: "/getting-started/"
 #  side: left
 
-- title: "Ăn uống"
-  url: "/anuong/"
+- title: "Bababi"
+  url: "/bababi/"
   side: left
   dropdown:
-  - title: "An dam"
-    url: "/anuong/andam/"
-  - title: "Typography"
-    url: "/anuong/suabot/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Ăn uống"
+    url: "/bababi/anuong/"
+  - title: "Sức khoẻ"
+    url: "/bababi/suckhoe/"
+  - title: "Chơi&học"
+    url: "/bababi/choihoc/"
+  - title: "phattrien"
+    url: "/bababi/phattrien/"
 
 
-- title: "Sức khoẻ"
-  url: "/suckhoe/"
-  side: left
-  dropdown:
-  - title: "Benh thuong gap"
-    url: "/suckhoe/grid/"
-  - title: "Phat trien tam ly"
-    url: "/suckhoe/tamly/"
-  - title: "Phuong phap so cuu khi tre gap su co"
-    url: "/suckhoe/socuu/"
 
-- title: "Chơi & học"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
 
 #- title: "Header Styles"
 #  url: "/headers/"
@@ -71,14 +41,34 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
 
-- title: Phát triển
-  url: "/documentation/"
+
+
+
+
+#- title: "Search"
+#  url: "/search/"
+#  side: right
+- title: "Mamami"
+  url: "/mamami/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "banh"
+    url: "/banh/"
+  - title: "mon-viet"
+    url: "/mon-viet/"
+  - title: "mon-tay"
+    url: "/mon-tay/"
+    
+- title: "Papapi"
+  url: "/papapi/"
+  side: left
+  dropdown:
+  - title: "tu-hoc-MBA"
+    url: "/tu-hoc-MBA/"
+  - title: "giai-tri"
+    url: "/giai-tri/"
+
+
 
 - title: Blog
   url: "/blog/"
@@ -87,29 +77,6 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-#- title: "Search"
-#  url: "/search/"
-#  side: right
-- title: "Papapi"
-  url: "/papapi/"
+- title: "Contact"
+  url: "/contact/"
   side: right
-  dropdown:
-  - title: "tu-hoc-MBA"
-    url: "/tu-hoc-MBA/"
-  - title: "giai-tri"
-    url: "/giai-tri/"
-
-- title: "Mamami"
-  url: "/mamami/"
-  side: right
-  dropdown:
-  - title: "banh"
-    url: "/banh/"
-  - title: "mon-viet"
-    url: "/mon-viet/"
-  - title: "mon-tay"
-    url: "/mon-tay/"
-
-#- title: "Contact"
-#  url: "/contact/"
-#  side: right

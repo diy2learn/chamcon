@@ -148,69 +148,12 @@
 
           
           
-        
-
-              
-
-          
-          
             
             
-
               <li class="divider"></li>
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/papapi/">Papapi</a>
+              <li><a  href="http://localhost:4000/chamcon/contact/">Contact</a></li>
 
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/tu-hoc-MBA/">tu-hoc-MBA</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/giai-tri/">giai-tri</a></li>
-                    
-                  </ul>
-
-              </li>
             
-          
-        
-
-              
-
-          
-          
-            
-            
-
-              <li class="divider"></li>
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/mamami/">Mamami</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/banh/">banh</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/mon-viet/">mon-viet</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/mon-tay/">mon-tay</a></li>
-                    
-                  </ul>
-
-              </li>
             
           
         
@@ -244,59 +187,29 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/anuong/">Ăn uống</a>
+                <a  href="http://localhost:4000/chamcon/bababi/">Bababi</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/anuong/andam/">An dam</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/bababi/anuong/">Ăn uống</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/anuong/suabot/">Typography</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/bababi/suckhoe/">Sức khoẻ</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/design/page/">Page/Post</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/bababi/choihoc/">Chơi&amp;học</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/design/page-fullwidth/">Page Full-Width</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/blog/">Blog-Page</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/design/video/">Video</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/design/gallery/">Gallery</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/design/portfolio/">Portfolio</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/bababi/phattrien/">phattrien</a></li>
                     
                   </ul>
 
@@ -315,24 +228,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/suckhoe/">Sức khoẻ</a>
+                <a  href="http://localhost:4000/chamcon/mamami/">Mamami</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/suckhoe/grid/">Benh thuong gap</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/banh/">banh</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/suckhoe/tamly/">Phat trien tam ly</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/mon-viet/">mon-viet</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/suckhoe/socuu/">Phuong phap so cuu khi tre gap su co</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/mon-tay/">mon-tay</a></li>
                     
                   </ul>
 
@@ -351,50 +264,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/design/">Chơi &amp; học</a>
+                <a  href="http://localhost:4000/chamcon/papapi/">Papapi</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/design/grid/">Grid &amp; Colors</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/tu-hoc-MBA/">tu-hoc-MBA</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/chamcon/design/typography/typography/">Typography</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/chamcon/documentation/">Phát triển</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/changelog/">Changelog</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/chamcon/roadmap/">Roadmap</a></li>
+                      <li><a  href="http://localhost:4000/chamcon/giai-tri/">giai-tri</a></li>
                     
                   </ul>
 
@@ -427,12 +309,6 @@
               </li>
               <li class="divider"></li>
             
-          
-        
-
-              
-
-          
           
         
 

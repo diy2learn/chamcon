@@ -4,7 +4,7 @@ show_meta: false
 title: "The gioi cua papapi"
 subheadline: "Tong hop thong tin thu vi papapi doc duoc"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/papapi/"
 ---
 <ul>
